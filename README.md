@@ -36,6 +36,26 @@ Retirando os ultimo dígito novamente, chegamos ao Nível 2 (Sub-grupo principal
 Por fim... Nível 1 (Grande Grupo)
 - 2 - PROFISSIONAIS DAS CIÊNCIAS E DAS ARTES
 
+Outro Exemplo, com um de advogado de Direito administrativo:
+
+* __Nível 1 - Grande Grupo__:
+  * _Código 2_ - PROFISSIONAIS DAS CIÊNCIAS E DAS ARTES
+  
+* __Nível 2 - Sub-Grupo Principal__:
+  * _Código 24_ - PROFISSIONAIS DAS CIÊNCIAS JURÍDICAS
+  
+* __Nível 3 - Sub-Grupo__:
+  * _Código 241_ - ADVOGADOS, PROCURADORES, TABELIÃES E AFINS
+  
+* __Nível 4 - Família__:
+  * _Código 2410_ - Advogados
+  
+* __Nível 5 - Ocupação__:
+  * _Código 241020_ - Advogado (direito público)
+  
+* __Nível 6 - Sinônimo__:
+  * _Código 241020_ - Advogado (direito administrativo)
+
 ### Formato
 
 Os arquivos txt estã com uma barra vertical (|) como separador, no formato:
