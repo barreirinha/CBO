@@ -28,7 +28,7 @@ Retirando os ultimos 2 dígitos do código, chegamos ao Nível 4 (Família):
 - 2251 - Médicos clínicos
 
 Retirando os ultimo dígito do código acima, chegamos ao Nível 3 (Sub-grupo):
-- 2251 - PROFISSIONAIS DA MEDICINA
+- 225 - PROFISSIONAIS DA MEDICINA
 
 Retirando os ultimo dígito novamente, chegamos ao Nível 2 (Sub-grupo principal):
 - 22 - PROFISSIONAIS DAS CIÊNCIAS BIOLÓGICAS, DA SAÚDE E AFINS
