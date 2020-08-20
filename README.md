@@ -56,11 +56,21 @@ Outro Exemplo, com um de advogado de Direito administrativo:
 * __Nível 6 - Sinônimo__:
   * _Código 241020_ - Advogado (direito administrativo)
 
-### Formato
+### Arquivos
 
-Os arquivos txt estã com uma barra vertical (|) como separador, no formato:
+* Tabelas Individuais:
+  * sql/nivel1_grandes_grupos.sql
+  * sql/nivel2_sub_grupo_principal.sql
+  * sql/nivel3_sub_grupo.sql
+  * sql/nivel4_familia.sql
+  * sql/nivel5_ocupacao.sql
+  * sql/nivel6_sinonimos.sql
+
+* Banco completo (As tabalas acima em um arquivo SQL único)
+	 * sql/cbo.sql
+  
+* Tabela que uso em minha aplicações, um compilado de todas as informações acima em uma tabela única.
+	 * sql/profissoes.sql
+
+Os arquivos da pasta txt são um tipo de csv, têm uma barra vertical (|) como separador, no formato:
 - codigo|descricao
-
-### Como eu uso
-
-Nas aplicações que fiz, juntei os dados do Nível 5 e 6, criando uma única tabela.
